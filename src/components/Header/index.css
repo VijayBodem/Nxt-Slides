@@ -1,0 +1,17 @@
+.header-container {
+  background-color: #dbeafe;
+  height: 12vh;
+  display: flex;
+  align-items: center;
+  padding: 10px 0 10px 15px;
+  font-family: 'Bree serif';
+}
+
+.log {
+  width: 50px;
+  margin-right: 15px;
+}
+
+.title {
+  font-size: 26px;
+}
